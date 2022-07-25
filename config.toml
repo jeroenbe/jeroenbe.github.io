@@ -2,6 +2,9 @@ baseURL = 'https://jeroenbe.github.io'
 languageCode = 'en-us'
 title = 'Jeroen Berrevoets'
 theme = "hugo-xmin"
+publishDir = "docs"
+
+
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
 

@@ -14,7 +14,7 @@ I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 
 </div>
 
-
+<hr/>
 
 ## Research
 Please find some of my publications below (a more up-to-date list can be found on [google scholar](https://scholar.google.be/citations?hl=en&user=Bq1dFNQAAAAJ)). "*" means equal contribution.

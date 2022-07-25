@@ -16,9 +16,20 @@ I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 
 <hr/>
 
+## News
+
+* I am co-organising a NeurIPS 2022 workshop on Causality for Real-world Impact with [Nick Pawlowski](http://nickpawlowski.de), [Cheng Zhang](https://cheng-zhang.org), [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [Caroline Uhler](https://www.carolineuhler.com), and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). For more info, please browse to [the workshop website](https://cml-4-impact.vanderschaar-lab.com).
+
+<hr/>
+
 ## Research
-Please find some of my publications below (a more up-to-date list can be found on [google scholar](https://scholar.google.be/citations?hl=en&user=Bq1dFNQAAAAJ)). "*" means equal contribution.
+
+Please find some of my publications below (a more up-to-date list can be found on [google scholar](https://scholar.google.be/citations?hl=en&user=Bq1dFNQAAAAJ)). 
+
+\* means equal contribution.
+
 ### Conferences
+
 * Y. Zhang\*, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, M. van der Schaar. _Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects._ __AISTATS, 2022__. [[paper]](https://proceedings.mlr.press/v151/zhang22b.html) [[code]](https://github.com/jeroenbe/ebm-for-cate)
 * B. van Breugel\*, T. Kyono\*, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, M. van der Schaar. _DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks._ __NeurIPS, 2021__. [[paper]](https://proceedings.neurips.cc/paper/2021/hash/ba9fab001f67381e56e410575874d967-Abstract.html) [[code]](https://github.com/trentkyono/DECAF)
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Alaa, Z. Qian, J. Jordon, A. Gimson, M. van der Schaar. _Learning Queueing Policies for Organ Transplantation Allocation using Interpretable Counterfactual Survival Analysis._ __ICML, 2021__. [[paper]](https://proceedings.mlr.press/v139/berrevoets21a.html) [[code]](https://github.com/jeroenbe/organsync)

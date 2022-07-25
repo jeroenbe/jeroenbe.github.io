@@ -1,0 +1,12 @@
+baseURL = 'https://jeroenbe.github.io'
+languageCode = 'en-us'
+title = 'Jeroen Berrevoets'
+theme = "hugo-xmin"
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
+[Params]
+  description = "Jeroen Berrevoets' personal homepage."
+  footer = "[[twitter](http://twitter.com/j_berrevoets?lang=en-GB)] | [[scholar](https://scholar.google.be/citations?hl=en&user=Bq1dFNQAAAAJ)] | [[github](https://github.com/jeroenbe)] | [[linkedin](https://www.linkedin.com/in/jeroenberrevoets/)]"
+  
+  

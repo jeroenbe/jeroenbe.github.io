@@ -5,13 +5,16 @@ language = "en"
 
 
 <div>
-<img style="float: left; padding: 10pt 40pt 40pt 0; width: 140pt; height: 140pt;" src="/jeroen_square.jpg" >
+<img style="float: left; padding: 20pt 30pt 10pt 0; width: 140pt; height: 140pt;" src="/jeroen_square.jpg" >
 
 # Jeroen Berrevoets
 I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com). My research is focused on causality and machine learning, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://vub.be), [KULeuven](https://kuleuven.be), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to jeroen [dot] berrevoets [at] damtp.cam.ac.uk.
 
+<div style="text-align: center;">
+
 [[twitter](http://twitter.com/j_berrevoets?lang=en-GB)] [[scholar](https://scholar.google.be/citations?hl=en&user=Bq1dFNQAAAAJ)]  [[github](https://github.com/jeroenbe)] [[linkedin](https://www.linkedin.com/in/jeroenberrevoets/)]
 
+</div>
 </div>
 
 <hr/>

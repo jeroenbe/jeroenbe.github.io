@@ -26,7 +26,7 @@ I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 
 ## News
 
-* I am co-organising a NeurIPS 2022 workshop on Causality for Real-world Impact with [Nick Pawlowski](http://nickpawlowski.de), [Cheng Zhang](https://cheng-zhang.org), [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [Caroline Uhler](https://www.carolineuhler.com), and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). For more info, please browse to [the workshop website](https://cml-4-impact.vanderschaar-lab.com).
+* I am co-organising a __NeurIPS 2022 workshop on Causality for Real-world Impact__ with [Nick Pawlowski](http://nickpawlowski.de), [Cheng Zhang](https://cheng-zhang.org), [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [Caroline Uhler](https://www.carolineuhler.com), and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). For more info, please browse to [the workshop website](https://cml-4-impact.vanderschaar-lab.com).
 
 <hr/>
 

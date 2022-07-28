@@ -16,6 +16,10 @@ mark {
   color: black;
 }
 
+ul {
+  list-style-image: linear-gradient(blue, pink);
+}
+
 
 /* header and footer areas */
 .menu { padding: 0; }

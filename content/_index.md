@@ -45,9 +45,8 @@ Please find some of my publications below (a more up-to-date list can be found o
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, S. Verboven, W. Verbeke. _Optimising Individual-Treatment-Effect Using Bandits._ CausalML workshop at NeurIPS, 2019. [[paper](https://arxiv.org/abs/1910.07265)] [[code](https://github.com/vub-dl/u-cmab)]
 
 ### Journals
-* S. Verboven, M.H. Chaudhary, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, V. Ginis, W. Verbeke. _HydaLearn: Highly Dynamic Task Weighting for Multitask Learning with Auxiliary Tasks._ __Applied Intelligence, 2022__. [[paper](https://link.springer.com/article/10.1007/s10489-022-03695-x)]
+
+* S. Verboven, M.H. Chaudhary, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, V. Ginis, W. Verbeke. _HydaLearn: Highly Dynamic Task Weighting for Multitask Learning with Auxiliary Tasks._ __Applied Intelligence, 2022__. [[paper](https://link.springer.com/article/10.1007/s10489-022-03695-x)] 
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, S. Verboven, W. Verbeke. _Treatment Effect Optimisation in Dynamic Environments._ __Journal of Causal Inference, 2022__. [[paper](https://www.degruyter.com/document/doi/10.1515/jci-2020-0009/html)]
 * F. Devriendt, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, W. Verbeke. _Why you should stop predicting customer churn and start using uplift models._ __Information Sciences, 2021__. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025519312022)]
 * S. Verboven, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, C. Wuytens, B. Baesens, W. Verbeke. _Autoencoders for Strategic Decision Support._ __Decision Support Systems, 2020__. [[paper](https://www.sciencedirect.com/science/article/pii/S0167923620301779)]
-
-

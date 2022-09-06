@@ -13,7 +13,7 @@ language = "en"
 <img align="left" style="padding: 0 30pt 10pt 0; width: 140pt; height: 140pt;" src="/jeroen_square.jpg" >
 
 
-I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com). My research is focused on __causality__ and __machine learning__, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://vub.be), [KULeuven](https://kuleuven.be), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] damtp.cam.ac.uk_.
+I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com). My research is focused on __causality__ and __machine learning__, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KULeuven](https://www.kuleuven.be/english/kuleuven/index.html), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] damtp.cam.ac.uk_.
 
 <div style="text-align: center;">
 
@@ -25,6 +25,8 @@ I'm a 2nd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 <hr/>
 
 ## News
+
+* On September 8 I am giving a talk at the [__AI and Machine Learning in Healthcare Summer School__](https://ccaim.cam.ac.uk/summer-school/) organised by [__CCAIM__](https://ccaim.cam.ac.uk) on __causal deep learning__, a topic I am very excited about! Have a look at the total program here: [https://ccaim.cam.ac.uk/program/](https://ccaim.cam.ac.uk/program/).
 
 * I am co-organising a __NeurIPS 2022 workshop on Causality for Real-world Impact__ with [Nick Pawlowski](http://nickpawlowski.de), [Cheng Zhang](https://cheng-zhang.org), [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [Caroline Uhler](https://www.carolineuhler.com), and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). For more info, please browse to [the workshop website](https://cml-4-impact.vanderschaar-lab.com).
 

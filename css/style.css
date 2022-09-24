@@ -17,6 +17,8 @@ mark {
 }
 
 
+
+
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
@@ -61,3 +63,10 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="profile-pic"] {
+    width: 100%;
+  }
+}

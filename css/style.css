@@ -11,6 +11,13 @@ img[alt$="<"] {
   float: left;
 }
 
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="profile-pic"] {
+    width: 100%;
+  }
+}
+
 mark {
   background-color: #bbfdfb;
   color: black;
@@ -64,9 +71,3 @@ table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
 
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-  [class*="profile-pic"] {
-    width: 100%;
-  }
-}

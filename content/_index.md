@@ -13,7 +13,7 @@ language = "en"
 <img align="left" style="padding: 0 30pt 10pt 0; width: 140pt; height: 140pt;" class="profile-pic" src="/jeroen_square.jpg" >
 
 
-I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com). My research is focused on __causality__ and __machine learning__, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KULeuven](https://www.kuleuven.be/english/kuleuven/index.html), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] damtp.cam.ac.uk_.
+I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com). My research is focused on __causality__ and __machine learning__, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KULeuven](https://www.kuleuven.be/english/kuleuven/index.html), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] maths.cam.ac.uk_.
 
 <div style="text-align: center;">
 

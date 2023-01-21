@@ -62,6 +62,6 @@ Please find some of my publications below (a more up-to-date list can be found o
 
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, K. Kacprzyk, Z. Qian, M. van der Schaar. _Navigating causal deep learning._ __2022__. [[preprint](https://arxiv.org/abs/2212.00911)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, N. Seedat, F. Imrie, M. van der Schaar. _Differentiable and Transportable Structure Learning._ __2022__. [[preprint](https://arxiv.org/abs/2206.06354)]
-* T. Hatt, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Curth, M. van der Schaar. _Combining observational and randomized data for estimating heterogeneous treatment effects._ __2022__ [[preprint](https://arxiv.org/abs/2202.12891)]
-* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Curth, I. Bica, M. van der Schaar. _Disentangled Counterfactual Recurrent Networks for Treatment Effect Inference over Time._ __2021__ [[preprint](https://arxiv.org/abs/2112.03811)]
-* W. Verbeke, D. Olaya, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, S. Verboven, S. Maldonado. _The foundations of cost-sensitive causal classification._ __2020__ [[preprint](https://arxiv.org/abs/2007.12582)]
+* T. Hatt, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Curth, M. van der Schaar. _Combining observational and randomized data for estimating heterogeneous treatment effects._ __2022__. [[preprint](https://arxiv.org/abs/2202.12891)]
+* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Curth, I. Bica, M. van der Schaar. _Disentangled Counterfactual Recurrent Networks for Treatment Effect Inference over Time._ __2021__. [[preprint](https://arxiv.org/abs/2112.03811)]
+* W. Verbeke, D. Olaya, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, S. Verboven, S. Maldonado. _The foundations of cost-sensitive causal classification._ __2020__. [[preprint](https://arxiv.org/abs/2007.12582)]

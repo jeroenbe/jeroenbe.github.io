@@ -13,7 +13,7 @@ language = "en"
 <img align="left" style="padding: 0 30pt 10pt 0; width: 140pt; height: 140pt;" class="profile-pic" src="/jeroen_square.jpg" >
 
 
-I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com). My research is focused on __causality__ and __machine learning__, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KULeuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] maths.cam.ac.uk_.
+I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com). My research is focused on __causality__ and __machine learning__, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] maths.cam.ac.uk_.
 
 <div style="text-align: center;">
 
@@ -62,6 +62,6 @@ Please find some of my publications below (a more up-to-date list can be found o
 
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, K. Kacprzyk, Z. Qian, M. van der Schaar. _Navigating causal deep learning._ __2022__. [[preprint](https://arxiv.org/abs/2212.00911)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, N. Seedat, F. Imrie, M. van der Schaar. _Differentiable and Transportable Structure Learning._ __2022__. [[preprint](https://arxiv.org/abs/2206.06354)]
-* T. Hatt, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Curth, M. van der Schaar. _Combining observational and randomized data for estimating heterogeneous treatment effects._ __2022__. [[preprint](https://arxiv.org/abs/2202.12891)]
+* T. Hatt, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Curth, S. Feuerriegel, M. van der Schaar. _Combining observational and randomized data for estimating heterogeneous treatment effects._ __2022__. [[preprint](https://arxiv.org/abs/2202.12891)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Curth, I. Bica, M. van der Schaar. _Disentangled Counterfactual Recurrent Networks for Treatment Effect Inference over Time._ __2021__. [[preprint](https://arxiv.org/abs/2112.03811)]
 * W. Verbeke, D. Olaya, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, S. Verboven, S. Maldonado. _The foundations of cost-sensitive causal classification._ __2020__. [[preprint](https://arxiv.org/abs/2007.12582)]

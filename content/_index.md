@@ -25,7 +25,7 @@ I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 <hr/>
 
 ## News <small><small><small> Last updated: `Jan 2023` </small></small></small> 
-* _Two papers accepted!_ One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[preprint](https://arxiv.org/abs/2202.02096)]) and one at [**ICLR23**](https://iclr.cc/) which is a first time for me ([[preprint](https://openreview.net/pdf?id=fPVRcJqspu)]). I look forward presenting these with my co-authors!
+* _Two papers accepted!_ One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[preprint](https://arxiv.org/abs/2202.02096)]) and one at [**ICLR23**](https://iclr.cc/) which is a first time for me ([[preprint](https://openreview.net/forum?id=fPVRcJqspu)]). I look forward presenting these with my co-authors!
 
 * Thrilled to be part of the orgnising team for the __2nd conference on Causal Learning and Reasoning (CLeaR) 2023__. Causality is becoming a major field in machine learning, and CLeaR is going to be its premier conference! Have a look at [cclear.cc](https://cclear.cc) for more info.
 
@@ -43,7 +43,7 @@ Please find some of my publications below (a more up-to-date list can be found o
 
 ### Conferences
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, F. Imrie, T. Kyono, J. Jordon, M. van der Schaar. _To Impute or not to Impute? Missing Data in Treatment Effect Estimation._  __AISTATS, 2023__. [[preprint](https://arxiv.org/abs/2202.02096)]
-* T. Liu, Z. Qian, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, M. van der Schaar. _GOGGLE: Generative Modelling for Tabular Data by Learning Relational Structure._ __ICLR, 2023__. [[preprint](https://openreview.net/pdf?id=fPVRcJqspu)]
+* T. Liu, Z. Qian, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, M. van der Schaar. _GOGGLE: Generative Modelling for Tabular Data by Learning Relational Structure._ __ICLR, 2023__. [[preprint](https://openreview.net/forum?id=fPVRcJqspu)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, Y. Zhang\*, M. van der Schaar. _Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects._ __AISTATS, 2022__. [[paper](https://proceedings.mlr.press/v151/zhang22b.html)] [[code](https://github.com/jeroenbe/ebm-for-cate)]
 * B. van Breugel\*, T. Kyono\*, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, M. van der Schaar. _DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks._ __NeurIPS, 2021__. [[paper](https://proceedings.neurips.cc/paper/2021/hash/ba9fab001f67381e56e410575874d967-Abstract.html)] [[code](https://github.com/trentkyono/DECAF)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Alaa, Z. Qian, J. Jordon, A. Gimson, M. van der Schaar. _Learning Queueing Policies for Organ Transplantation Allocation using Interpretable Counterfactual Survival Analysis._ __ICML, 2021__. [[paper](https://proceedings.mlr.press/v139/berrevoets21a.html)] [[code](https://github.com/jeroenbe/organsync)]

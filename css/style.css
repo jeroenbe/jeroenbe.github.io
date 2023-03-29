@@ -23,7 +23,9 @@ mark {
   color: black;
 }
 
-
+.date {
+  background-color:blue;
+}
 
 
 /* header and footer areas */

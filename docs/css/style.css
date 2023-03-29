@@ -16,6 +16,10 @@ mark {
   color: black;
 }
 
+.date {
+  background-color: lightgoldenrodyellow;
+}
+
 ul {
   list-style-image: linear-gradient(blue, pink);
 }

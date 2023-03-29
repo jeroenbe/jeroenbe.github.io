@@ -10,7 +10,7 @@ language = "en"
 
 </center>
 <div style="display:inline-block;">
-<img align="left" style="padding: 0 30pt 10pt 0; width: 140pt; height: 140pt;" class="profile-pic" src="/jeroen_square.jpg" >
+<img align="left" style="padding: 0; width: 140pt; height: 140pt; border-radius: 5pt; margin: 0 30pt 10pt 0" class="profile-pic" src="/jeroen_square.jpg" >
 
 
 I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac.uk) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com). My research is focused on __causality__ and __machine learning__, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] maths.cam.ac.uk_.
@@ -24,14 +24,16 @@ I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 
 <hr/>
 
-## News <small><small><small> Last updated: `Jan 2023` </small></small></small> 
-* _Two papers accepted!_ One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[preprint](https://arxiv.org/abs/2202.02096)]) and one at [**ICLR23**](https://iclr.cc/) which is a first time for me ([[preprint](https://openreview.net/forum?id=fPVRcJqspu)]). I look forward presenting these with my co-authors!
+## News
+* <span class="date">Mar 2023</span> &#8594; 🤩 I am incredibly excited to finally share our view on **Causal Deep Learning** in a new paper we uploaded to the ArXiv [[preprint](https://arxiv.org/abs/2303.02186)]. We discuss our view with a panel including Cheng Zhang (Microsoft), Guillermo Sapiro (Apple & Duke), and Simon Woodhead (Eedi), have a look on [YouTube](https://www.youtube.com/watch?v=oYnBMj_VjPI).
 
-* Thrilled to be part of the orgnising team for the __2nd conference on Causal Learning and Reasoning (CLeaR) 2023__. Causality is becoming a major field in machine learning, and CLeaR is going to be its premier conference! Have a look at [cclear.cc](https://cclear.cc) for more info.
+* <span class="date">Jan 2023</span> &#8594; _Two papers accepted!_ 🥳 One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[preprint](https://arxiv.org/abs/2202.02096)]) and one at [**ICLR23**](https://iclr.cc/) which is a first time for me ([[preprint](https://openreview.net/forum?id=fPVRcJqspu)]). I look forward presenting these with my co-authors!
 
-* On September 7 I am giving a talk with [Zhaozhi Qian](https://twitter.com/qianzhaozhi) at the [__AI and Machine Learning in Healthcare Summer School__](https://ccaim.cam.ac.uk/summer-school/) organised by [__CCAIM__](https://ccaim.cam.ac.uk) on __causal deep learning__, a topic I am very excited about! Have a look at the total program here: [https://ccaim.cam.ac.uk/program/](https://ccaim.cam.ac.uk/program/).
+* <span class="date">Dec 2022</span> &#8594; Thrilled to be part of the orgnising team for the __2nd conference on Causal Learning and Reasoning (CLeaR) 2023__. Causality is becoming a major field in machine learning, and CLeaR is going to be its premier conference! Have a look at [cclear.cc](https://cclear.cc) for more info.
 
-* I am co-organising a __NeurIPS 2022 workshop on Causality for Real-world Impact__ with [Nick Pawlowski](http://nickpawlowski.de), [Cheng Zhang](https://cheng-zhang.org), [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [Caroline Uhler](https://www.carolineuhler.com), and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). For more info, please browse to [the workshop website](https://cml-4-impact.vanderschaar-lab.com).
+* <span class="date">Aug 2022</span> &#8594; On September 7 I am giving a talk with [Zhaozhi Qian](https://twitter.com/qianzhaozhi) at the [__AI and Machine Learning in Healthcare Summer School__](https://ccaim.cam.ac.uk/summer-school/) organised by [__CCAIM__](https://ccaim.cam.ac.uk) on __causal deep learning__, a topic I am very excited about! Have a look at the total program here: [https://ccaim.cam.ac.uk/program/](https://ccaim.cam.ac.uk/program/).
+
+* <span class="date">Aug 2022</span> &#8594; I am co-organising a __NeurIPS 2022 workshop on Causality for Real-world Impact__ with [Nick Pawlowski](http://nickpawlowski.de), [Cheng Zhang](https://cheng-zhang.org), [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [Caroline Uhler](https://www.carolineuhler.com), and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). For more info, please browse to [the workshop website](https://cml-4-impact.vanderschaar-lab.com).
 
 <hr/>
 

@@ -24,8 +24,8 @@ I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 
 <hr/>
 
-## News
-* <span class="date">Mar 2023</span> &#8594; 🤩 I am incredibly excited to finally share our view on **Causal Deep Learning** in a new paper we uploaded to the ArXiv [[preprint](https://arxiv.org/abs/2303.02186)]. We discuss our view with a panel including Cheng Zhang (Microsoft), Guillermo Sapiro (Apple & Duke), and Simon Woodhead (Eedi), have a look on [YouTube](https://www.youtube.com/watch?v=oYnBMj_VjPI).
+## 🗞️ News
+* <span class="date">Mar 2023</span> &#8594; 🤩 I am incredibly excited to finally share our view on **Causal Deep Learning** in a new paper we uploaded to the ArXiv [[preprint](https://arxiv.org/abs/2303.02186)]. We discuss our view with a panel including [Cheng Zhang](https://cheng-zhang.org) (Microsoft), [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (Apple & Duke), and [Simon Woodhead](https://www.linkedin.com/in/simon-woodhead?originalSubdomain=uk) (Eedi), have a look on [YouTube](https://www.youtube.com/watch?v=oYnBMj_VjPI) 📺.
 
 * <span class="date">Jan 2023</span> &#8594; _Two papers accepted!_ 🥳 One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[preprint](https://arxiv.org/abs/2202.02096)]) and one at [**ICLR23**](https://iclr.cc/) which is a first time for me ([[preprint](https://openreview.net/forum?id=fPVRcJqspu)]). I look forward presenting these with my co-authors!
 
@@ -37,7 +37,7 @@ I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 
 <hr/>
 
-## Research
+## 🧪 Research
 
 Please find some of my publications below (a more up-to-date list can be found on [google scholar](https://scholar.google.be/citations?hl=en&user=Bq1dFNQAAAAJ)). 
 

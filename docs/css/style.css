@@ -24,6 +24,21 @@ ul {
   list-style-image: linear-gradient(blue, pink);
 }
 
+.profile-pic {
+  width: 20%; 
+}
+
+.profile-pic img {
+  float: left;
+  width: 100%; 
+  height: 100%;
+  margin: 0 30pt 0 0;
+}
+
+.bio p {
+  text-align: justify;
+}
+
 
 /* header and footer areas */
 .menu { padding: 0; }
@@ -72,7 +87,20 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  [class*="profile-pic"] {
+  .profile-pic {
     width: 100%;
+    
+    
+  }
+
+  .profile-pic img {
+    width: 30%;
+    height: 30%;
+    margin: 0 0 10pt 35% ;
+  }
+
+  .bio p {
+    clear: left;
+    margin: 0 15%;
   }
 }

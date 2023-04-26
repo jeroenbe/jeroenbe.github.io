@@ -47,9 +47,11 @@ I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 <hr/>
 
 ## 🗞️ News
+* <span class="date">Apr 2023</span> &#8594; _Two papers accepted at_ [**ICML23**](https://icml.cc)!! 🌺🌺 A first on structure learning where we reintroduce _transportability_ in differentiable methods [[preprint](https://arxiv.org/abs/2206.06354)]. A second on relaxing structural assumptions in multi-view learning for tabular data [preprint coming soon]. I (really 🏝️🥥) look forward to attend ICML this year!
+
 * <span class="date">Mar 2023</span> &#8594; 🤩 I am incredibly excited to finally share our view on **Causal Deep Learning** in a new paper we uploaded to the ArXiv [[preprint](https://arxiv.org/abs/2303.02186)]. We discuss our view with a panel including [Cheng Zhang](https://cheng-zhang.org) (Microsoft), [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (Apple & Duke), and [Simon Woodhead](https://www.linkedin.com/in/simon-woodhead?originalSubdomain=uk) (Eedi), have a look on [YouTube](https://www.youtube.com/watch?v=oYnBMj_VjPI) 📺.
 
-* <span class="date">Jan 2023</span> &#8594; _Two papers accepted!_ 🥳 One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[preprint](https://arxiv.org/abs/2202.02096)]) and one at [**ICLR23**](https://iclr.cc/) which is a first time for me ([[preprint](https://openreview.net/forum?id=fPVRcJqspu)]). I look forward presenting these with my co-authors!
+* <span class="date">Jan 2023</span> &#8594; _Two papers accepted!_ 🥳 One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[paper](https://proceedings.mlr.press/v206/berrevoets23a.html)]) and one at [**ICLR23**](https://iclr.cc/) which is a first time for me ([[paper](https://openreview.net/forum?id=fPVRcJqspu)]). I look forward presenting these with my co-authors!
 
 * <span class="date">Dec 2022</span> &#8594; Thrilled to be part of the orgnising team for the __2nd conference on Causal Learning and Reasoning (CLeaR) 2023__. Causality is becoming a major field in machine learning, and CLeaR is going to be its premier conference! Have a look at [cclear.cc](https://cclear.cc) for more info.
 
@@ -66,8 +68,10 @@ Please find some of my publications below (a more up-to-date list can be found o
 \* means equal contribution.
 
 ### Conferences
-* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, F. Imrie, T. Kyono, J. Jordon, M. van der Schaar. _To Impute or not to Impute? Missing Data in Treatment Effect Estimation._  __AISTATS, 2023__. [[preprint](https://arxiv.org/abs/2202.02096)]
-* T. Liu, Z. Qian, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, M. van der Schaar. _GOGGLE: Generative Modelling for Tabular Data by Learning Relational Structure._ __ICLR, 2023__. [[preprint](https://openreview.net/forum?id=fPVRcJqspu)]
+* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, N. Seedat, F. Imrie, M. van der Schaar. _Differentiable and Transportable Structure Learning._ __ICML, 2023__. [[preprint](https://arxiv.org/abs/2206.06354)]
+* T. Liu, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, Z. Qian, M. van der Schaar. _Learning Representations Without Compositional Assumptions._ __ICML, 2023__. [preprint coming soon]
+* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, F. Imrie, T. Kyono, J. Jordon, M. van der Schaar. _To Impute or not to Impute? Missing Data in Treatment Effect Estimation._  __AISTATS, 2023__. [[paper](https://proceedings.mlr.press/v206/berrevoets23a.html)] [[code](https://github.com/jeroenbe/mcm)]
+* T. Liu, Z. Qian, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, M. van der Schaar. _GOGGLE: Generative Modelling for Tabular Data by Learning Relational Structure._ __ICLR, 2023__. [[paper](https://openreview.net/forum?id=fPVRcJqspu)] [[code](https://github.com/vanderschaarlab/GOGGLE)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, Y. Zhang\*, M. van der Schaar. _Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects._ __AISTATS, 2022__. [[paper](https://proceedings.mlr.press/v151/zhang22b.html)] [[code](https://github.com/jeroenbe/ebm-for-cate)]
 * B. van Breugel\*, T. Kyono\*, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, M. van der Schaar. _DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks._ __NeurIPS, 2021__. [[paper](https://proceedings.neurips.cc/paper/2021/hash/ba9fab001f67381e56e410575874d967-Abstract.html)] [[code](https://github.com/trentkyono/DECAF)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Alaa, Z. Qian, J. Jordon, A. Gimson, M. van der Schaar. _Learning Queueing Policies for Organ Transplantation Allocation using Interpretable Counterfactual Survival Analysis._ __ICML, 2021__. [[paper](https://proceedings.mlr.press/v139/berrevoets21a.html)] [[code](https://github.com/jeroenbe/organsync)]
@@ -84,8 +88,7 @@ Please find some of my publications below (a more up-to-date list can be found o
 
 ### Preprints
 
-* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, K. Kacprzyk, Z. Qian, M. van der Schaar. _Navigating causal deep learning._ __2022__. [[preprint](https://arxiv.org/abs/2212.00911)]
-* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, N. Seedat, F. Imrie, M. van der Schaar. _Differentiable and Transportable Structure Learning._ __2022__. [[preprint](https://arxiv.org/abs/2206.06354)]
+* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, K. Kacprzyk, Z. Qian, M. van der Schaar. _Causal deep learning._ __2023__. [[preprint](https://arxiv.org/abs/2303.02186)]
 * T. Hatt, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Curth, S. Feuerriegel, M. van der Schaar. _Combining observational and randomized data for estimating heterogeneous treatment effects._ __2022__. [[preprint](https://arxiv.org/abs/2202.12891)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Curth, I. Bica, M. van der Schaar. _Disentangled Counterfactual Recurrent Networks for Treatment Effect Inference over Time._ __2021__. [[preprint](https://arxiv.org/abs/2112.03811)]
 * W. Verbeke, D. Olaya, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, S. Verboven, S. Maldonado. _The foundations of cost-sensitive causal classification._ __2020__. [[preprint](https://arxiv.org/abs/2007.12582)]

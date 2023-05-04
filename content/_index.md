@@ -53,7 +53,7 @@ I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 
 * <span class="date">Jan 2023</span> &#8594; _Two papers accepted!_ 🥳 One at [**AISTATS23**](https://virtual.aistats.org/Conferences/2023) ([[paper](https://proceedings.mlr.press/v206/berrevoets23a.html)]) and one at [**ICLR23**](https://iclr.cc/) which is a first time for me ([[paper](https://openreview.net/forum?id=fPVRcJqspu)]). I look forward presenting these with my co-authors!
 
-* <span class="date">Dec 2022</span> &#8594; Thrilled to be part of the orgnising team for the __2nd conference on Causal Learning and Reasoning (CLeaR) 2023__. Causality is becoming a major field in machine learning, and CLeaR is going to be its premier conference! Have a look at [cclear.cc](https://cclear.cc) for more info.
+* <span class="date">Dec 2022</span> &#8594; Thrilled to be part of the organising team for the __2nd conference on Causal Learning and Reasoning (CLeaR) 2023__. Causality is becoming a major field in machine learning, and CLeaR is going to be its premier conference! Have a look at [cclear.cc](https://cclear.cc) for more info.
 
 * <span class="date">Aug 2022</span> &#8594; On September 7 I am giving a talk with [Zhaozhi Qian](https://twitter.com/qianzhaozhi) at the [__AI and Machine Learning in Healthcare Summer School__](https://ccaim.cam.ac.uk/summer-school/) organised by [__CCAIM__](https://ccaim.cam.ac.uk) on __causal deep learning__, a topic I am very excited about! Have a look at the total program here: [https://ccaim.cam.ac.uk/program/](https://ccaim.cam.ac.uk/program/).
 

@@ -57,7 +57,7 @@ I'm a 3rd year PhD student at the [University of Cambridge](https://damtp.cam.ac
 
 * <span class="date">Aug 2022</span> &#8594; On September 7 I am giving a talk with [Zhaozhi Qian](https://twitter.com/qianzhaozhi) at the [__AI and Machine Learning in Healthcare Summer School__](https://ccaim.cam.ac.uk/summer-school/) organised by [__CCAIM__](https://ccaim.cam.ac.uk) on __causal deep learning__, a topic I am very excited about! Have a look at the total program here: [https://ccaim.cam.ac.uk/program/](https://ccaim.cam.ac.uk/program/).
 
-* <span class="date">Aug 2022</span> &#8594; I am co-organising a __NeurIPS 2022 workshop on Causality for Real-world Impact__ with [Nick Pawlowski](http://nickpawlowski.de), [Cheng Zhang](https://cheng-zhang.org), [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [Caroline Uhler](https://www.carolineuhler.com), and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). For more info, please browse to [the workshop website](https://cml-4-impact.vanderschaar-lab.com).
+* <span class="date">Aug 2022</span> &#8594; I am co-organising a __NeurIPS 2022 workshop on Causality for Real-world Impact__ with [Nick Pawlowski](http://nickpawlowski.de) (Microsoft), [Cheng Zhang](https://cheng-zhang.org) (Microsoft), [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html) (CMU), [Caroline Uhler](https://www.carolineuhler.com) (MIT), and [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/) (Cambridge). For more info, please browse to [the workshop website](https://cml-4-impact.vanderschaar-lab.com).
 
 <hr/>
 

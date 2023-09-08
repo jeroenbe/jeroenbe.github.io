@@ -68,8 +68,8 @@ Please find some of my publications below (a more up-to-date list can be found o
 \* means equal contribution.
 
 ### Conferences
-* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, N. Seedat, F. Imrie, M. van der Schaar. _Differentiable and Transportable Structure Learning._ __ICML, 2023__. [[preprint](https://arxiv.org/abs/2206.06354)]
-* T. Liu, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, Z. Qian, M. van der Schaar. _Learning Representations Without Compositional Assumptions._ __ICML, 2023__. [[preprint](https://arxiv.org/abs/2305.19726)]
+* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, N. Seedat, F. Imrie, M. van der Schaar. _Differentiable and Transportable Structure Learning._ __ICML, 2023__. [[paper](https://proceedings.mlr.press/v202/berrevoets23a.html)] [[code](https://github.com/jeroenbe/d-struct)]
+* T. Liu, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, Z. Qian, M. van der Schaar. _Learning Representations Without Compositional Assumptions._ __ICML, 2023__. [[paper](https://proceedings.mlr.press/v202/liu23c.html)] [[code](https://github.com/tennisonliu/LEGATO)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, F. Imrie, T. Kyono, J. Jordon, M. van der Schaar. _To Impute or not to Impute? Missing Data in Treatment Effect Estimation._  __AISTATS, 2023__. [[paper](https://proceedings.mlr.press/v206/berrevoets23a.html)] [[code](https://github.com/jeroenbe/mcm)]
 * T. Liu, Z. Qian, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, M. van der Schaar. _GOGGLE: Generative Modelling for Tabular Data by Learning Relational Structure._ __ICLR, 2023__. [[paper](https://openreview.net/forum?id=fPVRcJqspu)] [[code](https://github.com/vanderschaarlab/GOGGLE)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, Y. Zhang\*, M. van der Schaar. _Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects._ __AISTATS, 2022__. [[paper](https://proceedings.mlr.press/v151/zhang22b.html)] [[code](https://github.com/jeroenbe/ebm-for-cate)]

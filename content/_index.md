@@ -47,7 +47,7 @@ I'm a 3rd year PhD student at the [University of Cambridge (DAMTP)](https://damt
 <hr/>
 
 ## 🗞️ News
-* <span class="date">Sept 2023</span> &#8594; A new paper accepted at [**NeurIPS23 (D&B)**](https://neurips.cc)! This one shows how one can structure and simulate _counterfactual resource allocation_ settings. I look forward to going to New Orleans once again to present it  🐊🎺🌶️! (Preprint coming soon)
+* <span class="date">Sept 2023</span> &#8594; A new paper accepted at [**NeurIPS23 (D&B)**](https://neurips.cc)! This one shows how one can structure and simulate _counterfactual resource allocation_ settings. I can't wait to revisit New Orleans once again to present it 🐊🎺🌶️! (Preprint coming soon)
 
 * <span class="date">Apr 2023</span> &#8594; _Two papers accepted at_ [**ICML23**](https://icml.cc)!! 🌺🌺 A first on structure learning where we reintroduce _transportability_ in differentiable methods [[preprint](https://arxiv.org/abs/2206.06354)]. A second on relaxing structural assumptions in multi-view learning for tabular data [[preprint](https://arxiv.org/abs/2305.19726)]. I (really 🏝️🥥) look forward to attend ICML this year!
 
@@ -65,7 +65,7 @@ I'm a 3rd year PhD student at the [University of Cambridge (DAMTP)](https://damt
 
 ## 🧪 Research
 
-Please find some of my publications below (a more up-to-date list can be found on [google scholar](https://scholar.google.be/citations?hl=en&user=Bq1dFNQAAAAJ)). 
+Please find some of my publications below (a more complete list can be found on [google scholar](https://scholar.google.be/citations?hl=en&user=Bq1dFNQAAAAJ)). 
 
 \* means equal contribution.
 

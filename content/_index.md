@@ -20,7 +20,7 @@ language = "en"
 
 <div class="bio">
 
-I'm a 3rd year PhD student at the [University of Cambridge (DAMTP)](https://damtp.cam.ac.uk) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com). My research is focused on __causality__ and __machine learning__, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] maths.cam.ac.uk_.
+I'm a 4th year PhD student at the [University of Cambridge (DAMTP)](https://damtp.cam.ac.uk) where I am a member of the [vanderschaar-lab](https://vanderschaar-lab.com). My research is focused on __causality__ and __machine learning__, sometimes applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] maths.cam.ac.uk_.
 
 </div>
 
@@ -47,6 +47,8 @@ I'm a 3rd year PhD student at the [University of Cambridge (DAMTP)](https://damt
 <hr/>
 
 ## 🗞️ News
+* <span class="date">Jan 2024</span> &#8594; _Three papers accepted!_ ✌️👆 A first at [**TMLR**](https://jmlr.org/tmlr/) on treatment effects distributions (the last one of 2023 🎆) [[paper](https://openreview.net/forum?id=EjqopDxLbG)], one at [**ICLR24**]((https://iclr.cc/)) on ODEs and treatment effects **_as a spotlight (top 5%)! 🔦_** [preprint coming soon], and a third at [**AISTATS24**](http://aistats.org/aistats2024/) on data-centric AI with structure learning  [preprint coming soon].
+
 * <span class="date">Sept 2023</span> &#8594; A new paper accepted at [**NeurIPS23 (D&B)**](https://neurips.cc)! This one shows how one can structure and simulate _counterfactual resource allocation_ settings. I can't wait to revisit New Orleans once again to present it 🐊🎺🌶️! (Preprint coming soon)
 
 * <span class="date">Apr 2023</span> &#8594; _Two papers accepted at_ [**ICML23**](https://icml.cc)!! 🌺🌺 A first on structure learning where we reintroduce _transportability_ in differentiable methods [[preprint](https://arxiv.org/abs/2206.06354)]. A second on relaxing structural assumptions in multi-view learning for tabular data [[preprint](https://arxiv.org/abs/2305.19726)]. I (really 🏝️🥥) look forward to attend ICML this year!
@@ -63,14 +65,16 @@ I'm a 3rd year PhD student at the [University of Cambridge (DAMTP)](https://damt
 
 <hr/>
 
-## 🧪 Research
+## 🧪 Research <small><small><small>updated: `Jan '24`</small></small></small>
 
 Please find some of my publications below (a more complete list can be found on [google scholar](https://scholar.google.be/citations?hl=en&user=Bq1dFNQAAAAJ)). 
 
 \* means equal contribution.
 
 ### Conferences
-* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, D. Jarrett, A. Chan, M. van der Schaar. _AllSim: Systematic Simulation and Benchmarking of Repeated Resource Allocation Policies in Multi-User Systems with Varying Resources._ __NeurIPS (D&B), 2023__. [preprint coming soon]
+* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, S. Holt\*, K. Kacprzyk\*, Z. Qian, M. van der Schaar. _ODE Discovery for Longitudinal Heterogeneous Treatment Effects Inference._ __ICLR, 2024__ `spotlight: top 5% of accepted papers`  [preprint coming soon]
+* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, N. Huynh\*, N. Seedat, J. Crabbé, Z. Qian, M. van der Schaar. _DAGnosis: Localized Identification of Data Inconsistencies using Structures._ __AISTATS, 2024__ [preprint coming soon]
+* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, D. Jarrett, A. Chan, M. van der Schaar. _AllSim: Simulating and Benchmarking Resource Allocation Policies in Multi-User Systems._ __NeurIPS (D&B), 2023__. [[paper](https://openreview.net/forum?id=wiw5mnja8W)] [[code](https://github.com/jeroenbe/allsim)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, N. Seedat, F. Imrie, M. van der Schaar. _Differentiable and Transportable Structure Learning._ __ICML, 2023__. [[paper](https://proceedings.mlr.press/v202/berrevoets23a.html)] [[code](https://github.com/jeroenbe/d-struct)]
 * T. Liu, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, Z. Qian, M. van der Schaar. _Learning Representations Without Compositional Assumptions._ __ICML, 2023__. [[paper](https://proceedings.mlr.press/v202/liu23c.html)] [[code](https://github.com/tennisonliu/LEGATO)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, F. Imrie, T. Kyono, J. Jordon, M. van der Schaar. _To Impute or not to Impute? Missing Data in Treatment Effect Estimation._  __AISTATS, 2023__. [[paper](https://proceedings.mlr.press/v206/berrevoets23a.html)] [[code](https://github.com/jeroenbe/mcm)]
@@ -83,6 +87,7 @@ Please find some of my publications below (a more complete list can be found on 
 
 ### Journals
 
+* T. Vanderschueren, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, W. Verbeke. _NOFLITE: Learning to Predict Individual Treatment Effect Distributions._ __Transactions on Machine Learning Research (TMLR), 2023__ [[paper](https://openreview.net/forum?id=EjqopDxLbG)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, S. Verboven, W. Verbeke. _Treatment Effect Optimisation in Dynamic Environments._ __Journal of Causal Inference, 2022__. [[paper](https://www.degruyter.com/document/doi/10.1515/jci-2020-0009/html)]
 * S. Verboven, M.H. Chaudhary, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, V. Ginis, W. Verbeke. _HydaLearn: Highly Dynamic Task Weighting for Multitask Learning with Auxiliary Tasks._ __Applied Intelligence, 2022__. [[paper](https://link.springer.com/article/10.1007/s10489-022-03695-x)] 
 * F. Devriendt, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, W. Verbeke. _Why you should stop predicting customer churn and start using uplift models._ __Information Sciences, 2021__. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025519312022)]

@@ -20,7 +20,7 @@ language = "en"
 
 <div class="bio">
 
-PhD from the [University of Cambridge (DAMTP)](https://damtp.cam.ac.uk) (member of the [vanderschaar-lab](https://vanderschaar-lab.com)). My research is focused on __causality__ and __machine learning__, often applied to medicine. I am supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). Previously I've spent time at [VUB](https://www.vub.be/en), [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] maths.cam.ac.uk_.
+PhD from the [University of Cambridge (DAMTP)](https://damtp.cam.ac.uk) (member of the [vanderschaar-lab](https://vanderschaar-lab.com), supervised by prof. [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/).). My research is focused on __causality__ and __machine learning__, often applied to medicine. Previously I've spent time at [VUB](https://www.vub.be/en), [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html), [University of Copenhagen](https://www.math.ku.dk/english/), and [BMW Group](https://www.bmw.com/en/index.html). If you want to reach out, please send an email to _jeroen [dot] berrevoets [at] maths.cam.ac.uk_.
 
 </div>
 
@@ -72,7 +72,7 @@ Please find some of my publications below (a more complete list can be found on 
 \* means equal contribution.
 
 ### Conferences
-* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, S. Holt\*, K. Kacprzyk\*, Z. Qian, M. van der Schaar. _ODE Discovery for Longitudinal Heterogeneous Treatment Effects Inference._ __ICLR, 2024__ `spotlight: top 5% of accepted papers`  [preprint coming soon]
+* <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, S. Holt\*, K. Kacprzyk\*, Z. Qian, M. van der Schaar. _ODE Discovery for Longitudinal Heterogeneous Treatment Effects Inference._ __ICLR, 2024__ `spotlight: top 5%`  [preprint coming soon]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, N. Huynh\*, N. Seedat, J. Crabbé, Z. Qian, M. van der Schaar. _DAGnosis: Localized Identification of Data Inconsistencies using Structures._ __AISTATS, 2024__ [preprint coming soon]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, D. Jarrett, A. Chan, M. van der Schaar. _AllSim: Simulating and Benchmarking Resource Allocation Policies in Multi-User Systems._ __NeurIPS (D&B), 2023__. [[paper](https://openreview.net/forum?id=wiw5mnja8W)] [[code](https://github.com/jeroenbe/allsim)]
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, N. Seedat, F. Imrie, M. van der Schaar. _Differentiable and Transportable Structure Learning._ __ICML, 2023__. [[paper](https://proceedings.mlr.press/v202/berrevoets23a.html)] [[code](https://github.com/jeroenbe/d-struct)]

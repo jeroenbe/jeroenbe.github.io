@@ -49,7 +49,7 @@ PhD from the [University of Cambridge (DAMTP)](https://damtp.cam.ac.uk) (supervi
 ## 🗞️ News
 * <span class="date">Jan 2025</span> &#8594; _A few papers accepted._ Two at [**AISTATS25**](https://aistats.org/aistats2025/) 🌞🌞, one on identifiable gradient-based structure learning [preprint coming soon], and one on active feature aquisition for CATE [preprint coming soon]. Another paper at [**TMLR**](https://jmlr.org/tmlr/) on treatment effects with continuous treatment values ([[preprint]](https://arxiv.org/abs/2309.03731)). And one at [**ML4H**](https://ahli.cc/ml4h/) on liver transplantation 🩺 [preprint coming soon].
 
-* <span class="date">Jan 2024</span> &#8594; _Three papers accepted!_ ✌️👆 A first at [**TMLR**](https://jmlr.org/tmlr/) on treatment effects distributions (the last one of 2023 🎆) [[paper](https://openreview.net/forum?id=EjqopDxLbG)], one at [**ICLR24**]((https://iclr.cc/)) on ODEs and treatment effects **_as a spotlight (top 5%)! 🔦_** [preprint coming soon], and a third at [**AISTATS24**](http://aistats.org/aistats2024/) on data-centric AI with structure learning  [preprint coming soon].
+* <span class="date">Jan 2024</span> &#8594; _Three papers accepted!_ ✌️👆 A first at [**TMLR**](https://jmlr.org/tmlr/) on treatment effects distributions (the last one of 2023 🎆) [[paper](https://openreview.net/forum?id=EjqopDxLbG)], one at [**ICLR24**]((https://iclr.cc/)) on ODEs and treatment effects **_as a spotlight (top 5%)! 🔦_** [[paper](https://openreview.net/forum?id=pxI5IPeWgW)], and a third at [**AISTATS24**](http://aistats.org/aistats2024/) on data-centric AI with structure learning [[paper](https://proceedings.mlr.press/v238/huynh24a.html)].
 
 * <span class="date">Sept 2023</span> &#8594; A new paper accepted at [**NeurIPS23 (D&B)**](https://neurips.cc)! This one shows how one can structure and simulate _counterfactual resource allocation_ settings. I can't wait to revisit New Orleans once again to present it 🐊🎺🌶️! (Preprint coming soon)
 
@@ -75,19 +75,33 @@ Please find some of my publications below (a more complete list can be found on 
 
 ### Conferences
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\, J. Raymaekers, M. van der Schaar, T. Verdonck, R. Yao. _Differentiable Causal Structure Learning with Identifiability._ __AISTATS, 2025__ [preprint coming soon]
+
 * J. Piskorz, N. Astorga, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\, M. van der Schaar. _Active Feature Acquisition for Personalised Treatment Assignment._ __AISTATS, 2025__ [preprint coming soon]
+
 * A. Marchese, H. de Ferrante, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\, S. Verboven. _DynamITE: Optimal time-sensitive organ offers using ITE._ __ML4H, 2024__ [preprint coming soon]
+
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, S. Holt\*, K. Kacprzyk\*, Z. Qian, M. van der Schaar. _ODE Discovery for Longitudinal Heterogeneous Treatment Effects Inference._ __ICLR, 2024__ `spotlight: top 5%`  [[paper](https://openreview.net/forum?id=pxI5IPeWgW)] [[code](https://github.com/samholt/ODE-Discovery-for-Longitudinal-Heterogeneous-Treatment-Effects-Inference)]
+
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, N. Huynh\*, N. Seedat, J. Crabbé, Z. Qian, M. van der Schaar. _DAGnosis: Localized Identification of Data Inconsistencies using Structures._ __AISTATS, 2024__ [[paper](https://proceedings.mlr.press/v238/huynh24a.html)] [[code](https://github.com/nicolashuynh/DAGNOSIS)]
+
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, D. Jarrett, A. Chan, M. van der Schaar. _AllSim: Simulating and Benchmarking Resource Allocation Policies in Multi-User Systems._ __NeurIPS (D&B), 2023__. [[paper](https://openreview.net/forum?id=wiw5mnja8W)] [[code](https://github.com/jeroenbe/allsim)]
+
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, N. Seedat, F. Imrie, M. van der Schaar. _Differentiable and Transportable Structure Learning._ __ICML, 2023__. [[paper](https://proceedings.mlr.press/v202/berrevoets23a.html)] [[code](https://github.com/jeroenbe/d-struct)]
+
 * T. Liu, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, Z. Qian, M. van der Schaar. _Learning Representations Without Compositional Assumptions._ __ICML, 2023__. [[paper](https://proceedings.mlr.press/v202/liu23c.html)] [[code](https://github.com/tennisonliu/LEGATO)]
+
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, F. Imrie, T. Kyono, J. Jordon, M. van der Schaar. _To Impute or not to Impute? Missing Data in Treatment Effect Estimation._  __AISTATS, 2023__. [[paper](https://proceedings.mlr.press/v206/berrevoets23a.html)] [[code](https://github.com/jeroenbe/mcm)]
+
 * T. Liu, Z. Qian, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, M. van der Schaar. _GOGGLE: Generative Modelling for Tabular Data by Learning Relational Structure._ __ICLR, 2023__. [[paper](https://openreview.net/forum?id=fPVRcJqspu)] [[code](https://github.com/vanderschaarlab/GOGGLE)]
+
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>\*, Y. Zhang\*, M. van der Schaar. _Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects._ __AISTATS, 2022__. [[paper](https://proceedings.mlr.press/v151/zhang22b.html)] [[code](https://github.com/jeroenbe/ebm-for-cate)]
+
 * B. van Breugel\*, T. Kyono\*, <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, M. van der Schaar. _DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks._ __NeurIPS, 2021__. [[paper](https://proceedings.neurips.cc/paper/2021/hash/ba9fab001f67381e56e410575874d967-Abstract.html)] [[code](https://github.com/trentkyono/DECAF)]
+
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, A. Alaa, Z. Qian, J. Jordon, A. Gimson, M. van der Schaar. _Learning Queueing Policies for Organ Transplantation Allocation using Interpretable Counterfactual Survival Analysis._ __ICML, 2021__. [[paper](https://proceedings.mlr.press/v139/berrevoets21a.html)] [[code](https://github.com/jeroenbe/organsync)]
+
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, J. Jordon, I. Bica, A. Gimson, M. van der Schaar. _OrganITE: Optimal Transplant Donor Organ Offering Using an Individual Treatment Effect._ __NeurIPS, 2020__. [[paper](https://proceedings.neurips.cc/paper/2020/hash/e7c573c14a09b84f6b7782ce3965f335-Abstract.html)] [[code](https://github.com/jeroenbe/organsync/blob/main/src/organsync/policies/policy.py#L475)]
+
 * <mark style="background-color: #bbfdfb;">J. Berrevoets</mark>, S. Verboven, W. Verbeke. _Optimising Individual-Treatment-Effect Using Bandits._ CausalML workshop at NeurIPS, 2019. [[paper](https://arxiv.org/abs/1910.07265)] [[code](https://github.com/vub-dl/u-cmab)]
 
 ### Journals
